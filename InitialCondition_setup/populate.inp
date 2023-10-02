@@ -1,0 +1,21 @@
+tolerance  15      # minimal distance between atoms in different molecules
+                    # (you should also consider changing the "discale" 
+                    #  parameter.  I think discale=1.0 by default.)
+seed       456  # seed for random number generator
+#sidemax 5000
+
+# The file type of input and output files is XYZ
+filetype xyz
+
+# The name of the output file
+output  IC_N200_Box600A.xyz
+
+structure penta_A_mono.xyz
+  number 100
+  inside box  -300  -300  -300  300 300 300
+end structure
+
+structure penta_B_mono.xyz
+  number 100
+  inside box  -300  -300  -300  300 300 300
+end structure

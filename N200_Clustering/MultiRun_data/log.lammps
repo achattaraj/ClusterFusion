@@ -1,0 +1,9 @@
+LAMMPS (5 Jun 2019)
+variable T equal 310
+
+variable seed equal 644734
+
+variable fName string Run4_IC_Rg_175A_Es_3kT_Ens05kT
+
+log ${fName}.log
+log Run4_IC_Rg_175A_Es_3kT_Ens05kT.log

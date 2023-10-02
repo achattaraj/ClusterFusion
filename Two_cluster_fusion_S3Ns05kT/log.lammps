@@ -1,0 +1,13 @@
+LAMMPS (5 Jun 2019)
+variable T equal 310
+
+variable seed equal 28258
+
+units           real
+boundary p p p
+atom_style      full
+
+variable fName string Run4_Fusion_Es_3kT_Ens_05kT
+log ${fName}.log
+log Run4_Fusion_Es_3kT_Ens_05kT.log
+

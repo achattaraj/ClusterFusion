@@ -1,0 +1,458 @@
+Lmod has detected the following error: The following module(s) are unknown:
+"gcc/12.1.0-fasrc01"
+
+Please check the spelling or version number. Also try "module spider ..."
+It is also possible your cache file is out-of-date; it may help to try:
+  $ module --ignore_cache load "gcc/12.1.0-fasrc01"
+
+Also make sure that all modulefiles written in TCL start with the string
+#%Module
+
+
+
+Current file is Run10_Relax_Es_3kT_Ens_03kT_input_tp_310000000.restart
+Run10_Relax_Es_3kT_Ens_03kT_input_tp_310000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run10_Relax_Es_3kT_Ens_03kT_input_tp_320000000.restart
+Run10_Relax_Es_3kT_Ens_03kT_input_tp_320000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run10_Relax_Es_3kT_Ens_03kT_input_tp_330000000.restart
+Run10_Relax_Es_3kT_Ens_03kT_input_tp_330000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run10_Relax_Es_3kT_Ens_03kT_input_tp_340000000.restart
+Run10_Relax_Es_3kT_Ens_03kT_input_tp_340000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run10_Relax_Es_3kT_Ens_03kT_input_tp_350000000.restart
+Run10_Relax_Es_3kT_Ens_03kT_input_tp_350000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run10_Relax_Es_3kT_Ens_03kT_input_tp_360000000.restart
+Run10_Relax_Es_3kT_Ens_03kT_input_tp_360000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run10_Relax_Es_3kT_Ens_03kT_input_tp_370000000.restart
+Run10_Relax_Es_3kT_Ens_03kT_input_tp_370000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run10_Relax_Es_3kT_Ens_03kT_input_tp_380000000.restart
+Run10_Relax_Es_3kT_Ens_03kT_input_tp_380000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run10_Relax_Es_3kT_Ens_03kT_input_tp_390000000.restart
+Run10_Relax_Es_3kT_Ens_03kT_input_tp_390000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run10_Relax_Es_3kT_Ens_03kT_input_tp_400000000.restart
+Run10_Relax_Es_3kT_Ens_03kT_input_tp_400000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run1_Relax_Es_3kT_Ens_03kT_input_tp_310000000.restart
+Run1_Relax_Es_3kT_Ens_03kT_input_tp_310000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run1_Relax_Es_3kT_Ens_03kT_input_tp_320000000.restart
+Run1_Relax_Es_3kT_Ens_03kT_input_tp_320000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run1_Relax_Es_3kT_Ens_03kT_input_tp_330000000.restart
+Run1_Relax_Es_3kT_Ens_03kT_input_tp_330000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run1_Relax_Es_3kT_Ens_03kT_input_tp_340000000.restart
+Run1_Relax_Es_3kT_Ens_03kT_input_tp_340000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run1_Relax_Es_3kT_Ens_03kT_input_tp_350000000.restart
+Run1_Relax_Es_3kT_Ens_03kT_input_tp_350000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run1_Relax_Es_3kT_Ens_03kT_input_tp_360000000.restart
+Run1_Relax_Es_3kT_Ens_03kT_input_tp_360000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run1_Relax_Es_3kT_Ens_03kT_input_tp_370000000.restart
+Run1_Relax_Es_3kT_Ens_03kT_input_tp_370000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run1_Relax_Es_3kT_Ens_03kT_input_tp_380000000.restart
+Run1_Relax_Es_3kT_Ens_03kT_input_tp_380000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run1_Relax_Es_3kT_Ens_03kT_input_tp_390000000.restart
+Run1_Relax_Es_3kT_Ens_03kT_input_tp_390000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run1_Relax_Es_3kT_Ens_03kT_input_tp_400000000.restart
+Run1_Relax_Es_3kT_Ens_03kT_input_tp_400000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run2_Relax_Es_3kT_Ens_03kT_input_tp_310000000.restart
+Run2_Relax_Es_3kT_Ens_03kT_input_tp_310000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run2_Relax_Es_3kT_Ens_03kT_input_tp_320000000.restart
+Run2_Relax_Es_3kT_Ens_03kT_input_tp_320000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run2_Relax_Es_3kT_Ens_03kT_input_tp_330000000.restart
+Run2_Relax_Es_3kT_Ens_03kT_input_tp_330000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run2_Relax_Es_3kT_Ens_03kT_input_tp_340000000.restart
+Run2_Relax_Es_3kT_Ens_03kT_input_tp_340000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run2_Relax_Es_3kT_Ens_03kT_input_tp_350000000.restart
+Run2_Relax_Es_3kT_Ens_03kT_input_tp_350000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run2_Relax_Es_3kT_Ens_03kT_input_tp_360000000.restart
+Run2_Relax_Es_3kT_Ens_03kT_input_tp_360000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run2_Relax_Es_3kT_Ens_03kT_input_tp_370000000.restart
+Run2_Relax_Es_3kT_Ens_03kT_input_tp_370000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run2_Relax_Es_3kT_Ens_03kT_input_tp_380000000.restart
+Run2_Relax_Es_3kT_Ens_03kT_input_tp_380000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run2_Relax_Es_3kT_Ens_03kT_input_tp_390000000.restart
+Run2_Relax_Es_3kT_Ens_03kT_input_tp_390000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run2_Relax_Es_3kT_Ens_03kT_input_tp_400000000.restart
+Run2_Relax_Es_3kT_Ens_03kT_input_tp_400000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run3_Relax_Es_3kT_Ens_03kT_input_tp_310000000.restart
+Run3_Relax_Es_3kT_Ens_03kT_input_tp_310000000.DATA
+srun: Job 62086451 step creation temporarily disabled, retrying (Requested nodes are busy)
+srun: Step created for job 62086451
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run3_Relax_Es_3kT_Ens_03kT_input_tp_320000000.restart
+Run3_Relax_Es_3kT_Ens_03kT_input_tp_320000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run3_Relax_Es_3kT_Ens_03kT_input_tp_330000000.restart
+Run3_Relax_Es_3kT_Ens_03kT_input_tp_330000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run3_Relax_Es_3kT_Ens_03kT_input_tp_340000000.restart
+Run3_Relax_Es_3kT_Ens_03kT_input_tp_340000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run3_Relax_Es_3kT_Ens_03kT_input_tp_350000000.restart
+Run3_Relax_Es_3kT_Ens_03kT_input_tp_350000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run3_Relax_Es_3kT_Ens_03kT_input_tp_360000000.restart
+Run3_Relax_Es_3kT_Ens_03kT_input_tp_360000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run3_Relax_Es_3kT_Ens_03kT_input_tp_370000000.restart
+Run3_Relax_Es_3kT_Ens_03kT_input_tp_370000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run3_Relax_Es_3kT_Ens_03kT_input_tp_380000000.restart
+Run3_Relax_Es_3kT_Ens_03kT_input_tp_380000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run3_Relax_Es_3kT_Ens_03kT_input_tp_390000000.restart
+Run3_Relax_Es_3kT_Ens_03kT_input_tp_390000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run3_Relax_Es_3kT_Ens_03kT_input_tp_400000000.restart
+Run3_Relax_Es_3kT_Ens_03kT_input_tp_400000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run4_Relax_Es_3kT_Ens_03kT_input_tp_310000000.restart
+Run4_Relax_Es_3kT_Ens_03kT_input_tp_310000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run4_Relax_Es_3kT_Ens_03kT_input_tp_320000000.restart
+Run4_Relax_Es_3kT_Ens_03kT_input_tp_320000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run4_Relax_Es_3kT_Ens_03kT_input_tp_330000000.restart
+Run4_Relax_Es_3kT_Ens_03kT_input_tp_330000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run4_Relax_Es_3kT_Ens_03kT_input_tp_340000000.restart
+Run4_Relax_Es_3kT_Ens_03kT_input_tp_340000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run4_Relax_Es_3kT_Ens_03kT_input_tp_350000000.restart
+Run4_Relax_Es_3kT_Ens_03kT_input_tp_350000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run4_Relax_Es_3kT_Ens_03kT_input_tp_360000000.restart
+Run4_Relax_Es_3kT_Ens_03kT_input_tp_360000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run4_Relax_Es_3kT_Ens_03kT_input_tp_370000000.restart
+Run4_Relax_Es_3kT_Ens_03kT_input_tp_370000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run4_Relax_Es_3kT_Ens_03kT_input_tp_380000000.restart
+Run4_Relax_Es_3kT_Ens_03kT_input_tp_380000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run4_Relax_Es_3kT_Ens_03kT_input_tp_390000000.restart
+Run4_Relax_Es_3kT_Ens_03kT_input_tp_390000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run4_Relax_Es_3kT_Ens_03kT_input_tp_400000000.restart
+Run4_Relax_Es_3kT_Ens_03kT_input_tp_400000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run5_Relax_Es_3kT_Ens_03kT_input_tp_310000000.restart
+Run5_Relax_Es_3kT_Ens_03kT_input_tp_310000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run5_Relax_Es_3kT_Ens_03kT_input_tp_320000000.restart
+Run5_Relax_Es_3kT_Ens_03kT_input_tp_320000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run5_Relax_Es_3kT_Ens_03kT_input_tp_330000000.restart
+Run5_Relax_Es_3kT_Ens_03kT_input_tp_330000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run5_Relax_Es_3kT_Ens_03kT_input_tp_340000000.restart
+Run5_Relax_Es_3kT_Ens_03kT_input_tp_340000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run5_Relax_Es_3kT_Ens_03kT_input_tp_350000000.restart
+Run5_Relax_Es_3kT_Ens_03kT_input_tp_350000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run5_Relax_Es_3kT_Ens_03kT_input_tp_360000000.restart
+Run5_Relax_Es_3kT_Ens_03kT_input_tp_360000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run5_Relax_Es_3kT_Ens_03kT_input_tp_370000000.restart
+Run5_Relax_Es_3kT_Ens_03kT_input_tp_370000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run5_Relax_Es_3kT_Ens_03kT_input_tp_380000000.restart
+Run5_Relax_Es_3kT_Ens_03kT_input_tp_380000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run5_Relax_Es_3kT_Ens_03kT_input_tp_390000000.restart
+Run5_Relax_Es_3kT_Ens_03kT_input_tp_390000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run5_Relax_Es_3kT_Ens_03kT_input_tp_400000000.restart
+Run5_Relax_Es_3kT_Ens_03kT_input_tp_400000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run6_Relax_Es_3kT_Ens_03kT_input_tp_310000000.restart
+Run6_Relax_Es_3kT_Ens_03kT_input_tp_310000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run6_Relax_Es_3kT_Ens_03kT_input_tp_320000000.restart
+Run6_Relax_Es_3kT_Ens_03kT_input_tp_320000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run6_Relax_Es_3kT_Ens_03kT_input_tp_330000000.restart
+Run6_Relax_Es_3kT_Ens_03kT_input_tp_330000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run6_Relax_Es_3kT_Ens_03kT_input_tp_340000000.restart
+Run6_Relax_Es_3kT_Ens_03kT_input_tp_340000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run6_Relax_Es_3kT_Ens_03kT_input_tp_350000000.restart
+Run6_Relax_Es_3kT_Ens_03kT_input_tp_350000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run6_Relax_Es_3kT_Ens_03kT_input_tp_360000000.restart
+Run6_Relax_Es_3kT_Ens_03kT_input_tp_360000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run6_Relax_Es_3kT_Ens_03kT_input_tp_370000000.restart
+Run6_Relax_Es_3kT_Ens_03kT_input_tp_370000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run6_Relax_Es_3kT_Ens_03kT_input_tp_380000000.restart
+Run6_Relax_Es_3kT_Ens_03kT_input_tp_380000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run6_Relax_Es_3kT_Ens_03kT_input_tp_390000000.restart
+Run6_Relax_Es_3kT_Ens_03kT_input_tp_390000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run6_Relax_Es_3kT_Ens_03kT_input_tp_400000000.restart
+Run6_Relax_Es_3kT_Ens_03kT_input_tp_400000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run7_Relax_Es_3kT_Ens_03kT_input_tp_310000000.restart
+Run7_Relax_Es_3kT_Ens_03kT_input_tp_310000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run7_Relax_Es_3kT_Ens_03kT_input_tp_320000000.restart
+Run7_Relax_Es_3kT_Ens_03kT_input_tp_320000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run7_Relax_Es_3kT_Ens_03kT_input_tp_330000000.restart
+Run7_Relax_Es_3kT_Ens_03kT_input_tp_330000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run7_Relax_Es_3kT_Ens_03kT_input_tp_340000000.restart
+Run7_Relax_Es_3kT_Ens_03kT_input_tp_340000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run7_Relax_Es_3kT_Ens_03kT_input_tp_350000000.restart
+Run7_Relax_Es_3kT_Ens_03kT_input_tp_350000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run7_Relax_Es_3kT_Ens_03kT_input_tp_360000000.restart
+Run7_Relax_Es_3kT_Ens_03kT_input_tp_360000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run7_Relax_Es_3kT_Ens_03kT_input_tp_370000000.restart
+Run7_Relax_Es_3kT_Ens_03kT_input_tp_370000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run7_Relax_Es_3kT_Ens_03kT_input_tp_380000000.restart
+Run7_Relax_Es_3kT_Ens_03kT_input_tp_380000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run7_Relax_Es_3kT_Ens_03kT_input_tp_390000000.restart
+Run7_Relax_Es_3kT_Ens_03kT_input_tp_390000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run7_Relax_Es_3kT_Ens_03kT_input_tp_400000000.restart
+Run7_Relax_Es_3kT_Ens_03kT_input_tp_400000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run8_Relax_Es_3kT_Ens_03kT_input_tp_310000000.restart
+Run8_Relax_Es_3kT_Ens_03kT_input_tp_310000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run8_Relax_Es_3kT_Ens_03kT_input_tp_320000000.restart
+Run8_Relax_Es_3kT_Ens_03kT_input_tp_320000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run8_Relax_Es_3kT_Ens_03kT_input_tp_330000000.restart
+Run8_Relax_Es_3kT_Ens_03kT_input_tp_330000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run8_Relax_Es_3kT_Ens_03kT_input_tp_340000000.restart
+Run8_Relax_Es_3kT_Ens_03kT_input_tp_340000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run8_Relax_Es_3kT_Ens_03kT_input_tp_350000000.restart
+Run8_Relax_Es_3kT_Ens_03kT_input_tp_350000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run8_Relax_Es_3kT_Ens_03kT_input_tp_360000000.restart
+Run8_Relax_Es_3kT_Ens_03kT_input_tp_360000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run8_Relax_Es_3kT_Ens_03kT_input_tp_370000000.restart
+Run8_Relax_Es_3kT_Ens_03kT_input_tp_370000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run8_Relax_Es_3kT_Ens_03kT_input_tp_380000000.restart
+Run8_Relax_Es_3kT_Ens_03kT_input_tp_380000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run8_Relax_Es_3kT_Ens_03kT_input_tp_390000000.restart
+Run8_Relax_Es_3kT_Ens_03kT_input_tp_390000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run8_Relax_Es_3kT_Ens_03kT_input_tp_400000000.restart
+Run8_Relax_Es_3kT_Ens_03kT_input_tp_400000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run9_Relax_Es_3kT_Ens_03kT_input_tp_310000000.restart
+Run9_Relax_Es_3kT_Ens_03kT_input_tp_310000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run9_Relax_Es_3kT_Ens_03kT_input_tp_320000000.restart
+Run9_Relax_Es_3kT_Ens_03kT_input_tp_320000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run9_Relax_Es_3kT_Ens_03kT_input_tp_330000000.restart
+Run9_Relax_Es_3kT_Ens_03kT_input_tp_330000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run9_Relax_Es_3kT_Ens_03kT_input_tp_340000000.restart
+Run9_Relax_Es_3kT_Ens_03kT_input_tp_340000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run9_Relax_Es_3kT_Ens_03kT_input_tp_350000000.restart
+Run9_Relax_Es_3kT_Ens_03kT_input_tp_350000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run9_Relax_Es_3kT_Ens_03kT_input_tp_360000000.restart
+Run9_Relax_Es_3kT_Ens_03kT_input_tp_360000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run9_Relax_Es_3kT_Ens_03kT_input_tp_370000000.restart
+Run9_Relax_Es_3kT_Ens_03kT_input_tp_370000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run9_Relax_Es_3kT_Ens_03kT_input_tp_380000000.restart
+Run9_Relax_Es_3kT_Ens_03kT_input_tp_380000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run9_Relax_Es_3kT_Ens_03kT_input_tp_390000000.restart
+Run9_Relax_Es_3kT_Ens_03kT_input_tp_390000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is Run9_Relax_Es_3kT_Ens_03kT_input_tp_400000000.restart
+Run9_Relax_Es_3kT_Ens_03kT_input_tp_400000000.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is final_state_Relax_Es_3kT_Ens_03kT.restart
+final_state_Relax_Es_3kT_Ens_03kT.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is final_state_Run10_Relax_Es_3kT_Ens_03kT_input.restart
+final_state_Run10_Relax_Es_3kT_Ens_03kT_input.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is final_state_Run1_Relax_Es_3kT_Ens_03kT_input.restart
+final_state_Run1_Relax_Es_3kT_Ens_03kT_input.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is final_state_Run2_Relax_Es_3kT_Ens_03kT_input.restart
+final_state_Run2_Relax_Es_3kT_Ens_03kT_input.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is final_state_Run3_Relax_Es_3kT_Ens_03kT_input.restart
+final_state_Run3_Relax_Es_3kT_Ens_03kT_input.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is final_state_Run4_Relax_Es_3kT_Ens_03kT_input.restart
+final_state_Run4_Relax_Es_3kT_Ens_03kT_input.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is final_state_Run5_Relax_Es_3kT_Ens_03kT_input.restart
+final_state_Run5_Relax_Es_3kT_Ens_03kT_input.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is final_state_Run6_Relax_Es_3kT_Ens_03kT_input.restart
+final_state_Run6_Relax_Es_3kT_Ens_03kT_input.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is final_state_Run7_Relax_Es_3kT_Ens_03kT_input.restart
+final_state_Run7_Relax_Es_3kT_Ens_03kT_input.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is final_state_Run8_Relax_Es_3kT_Ens_03kT_input.restart
+final_state_Run8_Relax_Es_3kT_Ens_03kT_input.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory
+Current file is final_state_Run9_Relax_Es_3kT_Ens_03kT_input.restart
+final_state_Run9_Relax_Es_3kT_Ens_03kT_input.DATA
+srun: error: holy7c24604: task 0: Exited with exit code 127
+/n/home07/achattaraj/lammps-5Jun19/src/lmp_mpi: error while loading shared libraries: libevent-2.0.so.5: cannot open shared object file: No such file or directory

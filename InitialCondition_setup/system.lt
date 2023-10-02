@@ -1,0 +1,15 @@
+import "penta_A.lt"
+import "penta_B.lt"
+
+
+# The polymers must be listed and instantiated in the same order as that in the packmol file (if there are multiple polymers packed into the xyz file)
+
+p1 = new penta_A[100]
+p2 = new penta_B[100]
+
+write_once("Data Boundary") 
+{
+  -350 350 xlo xhi
+  -350 350 ylo yhi
+  -350 350 zlo zhi
+}
